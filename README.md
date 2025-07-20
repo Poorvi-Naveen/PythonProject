@@ -30,9 +30,6 @@ A simple Python desktop app to generate strong, customizable passwords using Tki
 - 3. Run the app:
    ```bash
    python password_generator.py
-- Run the app:
-   ```bash
-   flutter run
 
 ## Notes
 - Saved passwords are stored in generated_passwords.txt.
